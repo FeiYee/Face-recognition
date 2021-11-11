@@ -1,5 +1,5 @@
 # Face-model
-基于Opencv-python 与 face——recognition开发的实时人脸识别程序案例。
+基于Opencv-python 与 face——recognition的实时人脸识别程序案例。
 
 开发环境 ： 
 
@@ -9,4 +9,3 @@
 
     face_recognition 1.2.3
 
-文章地址：https：// #############################
